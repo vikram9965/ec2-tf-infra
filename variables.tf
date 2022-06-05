@@ -5,11 +5,11 @@ variable "instance_type" {
 
 variable "ami_id" {
   type    = string
-  default = "ami-04893cdb768d0f9ee"
+  default = "ami-079b5e5b3971bd10d"
 
 }
 
 variable "key_name" {
   type    = string
-  default = "devops2022"
+  default = "devopsmarch2022"
 }
